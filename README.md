@@ -8,7 +8,7 @@ This page collects my public policy work: analysis of how state government actua
 - State permitting and regulatory approval for energy and data center projects
 - Access to utilities and water resources
 - Performance measurement and accountability in state agencies
-- Turning public policy data into usable tools, starting with a comparison of state economic development incentive programs
+- Turning public policy data into usable tools: [State data center incentives, compared](https://jphoebus.github.io/state-incentive-comparison/) and [How states check their tax incentives](https://jphoebus.github.io/tax-incentive-evaluation/)
 
 ## Connect
 - LinkedIn: [linkedin.com/in/joshuaphoebus](https://www.linkedin.com/in/joshuaphoebus)
