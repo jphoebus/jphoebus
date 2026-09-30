@@ -8,7 +8,13 @@ This page collects my public policy work: analysis of how state government actua
 - State permitting and regulatory approval for energy and data center projects
 - Access to utilities and water resources
 - Performance measurement and accountability in state agencies
-- Turning public policy data into usable tools: [State data center incentives, compared](https://jphoebus.github.io/state-incentive-comparison/) and [How states check their tax incentives](https://jphoebus.github.io/tax-incentive-evaluation/)
+- Turning public policy data into usable tools (see Projects below)
+
+## Projects
+- [What states changed on data centers in 2026](https://jphoebus.github.io/data-center-legislation-2026/)
+- [State data center incentives, compared](https://jphoebus.github.io/state-incentive-comparison/)
+- [How states check their tax incentives](https://jphoebus.github.io/tax-incentive-evaluation/)
+- [DOE's SPARK grid selections, tracked](https://jphoebus.github.io/spark-grid-tracker/)
 
 ## Connect
 - LinkedIn: [linkedin.com/in/joshuaphoebus](https://www.linkedin.com/in/joshuaphoebus)
