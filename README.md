@@ -13,6 +13,7 @@ This page collects my public policy work: analysis of how state government actua
 ## Projects
 - [What states changed on data centers in 2026](https://jphoebus.github.io/data-center-legislation-2026/)
 - [State data center incentives, compared](https://jphoebus.github.io/state-incentive-comparison/)
+- [What counts as exempt data center equipment](https://jphoebus.github.io/data-center-exempt-equipment/)
 - [How states check their tax incentives](https://jphoebus.github.io/tax-incentive-evaluation/)
 - [DOE's SPARK grid selections, tracked](https://jphoebus.github.io/spark-grid-tracker/)
 
