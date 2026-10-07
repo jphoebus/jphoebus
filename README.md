@@ -17,6 +17,7 @@ This page collects my public policy work: analysis of how state government actua
 - [How states check their tax incentives](https://jphoebus.github.io/tax-incentive-evaluation/)
 - [DOE's SPARK grid selections, tracked](https://jphoebus.github.io/spark-grid-tracker/)
 - [Who pays for data center power](https://jphoebus.github.io/large-load-tariffs/)
+- [Are state rules ready for quantum computing?](https://jphoebus.github.io/quantum-readiness/)
 
 ## Connect
 - LinkedIn: [linkedin.com/in/joshuaphoebus](https://www.linkedin.com/in/joshuaphoebus)
